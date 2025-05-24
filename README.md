@@ -22,6 +22,8 @@ The user interacts with the program by inputting a city name, and the code dynam
 
 This project is a classic example of how real-time data APIs can be integrated with Python to create live, interactive dashboards. In real-world applications, such a system can be embedded in weather-based mobile apps, travel planning tools, farming and irrigation support tools, or logistics systems that depend on weather conditions. Schools and students can also use it as an educational tool to learn about meteorology and how weather data is structured and interpreted.
 
+The data source, OpenWeatherMap, is a trusted provider of global weather data and provides both free and paid access to forecast information. By using their API key securely in the program, I ensured that data was fetched in real-time, offering accuracy and reliability in the results. The use of emojis, clean charts, and Python’s readability made the tool engaging and easy to use. Overall, this project beautifully combines the power of data science, API interaction, and user-centric design, proving how Python can be used to create practical and delightful applications that solve real-world problems.
+
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/65bf9d92-b4af-43be-9d46-af3d399de326)
